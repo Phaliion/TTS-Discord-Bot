@@ -5,6 +5,8 @@ NEEDS FFMPEG
 (put in same directory as "main.py")
 download: https://ffmpeg.org/download.html
 
+⚠️ needs discord bot token (last line of "main.py"), replace "token" with your bot token ⚠️
+
 Stuff:
 
  - .help | where you can find all of these commands
