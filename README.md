@@ -2,7 +2,7 @@
 Discord Bot that uses Text to Speech to talk into voice channels. Could be used for someone without a mic.
 
 NEEDS FFMPEG
-(put in same directory as "main.py"
+(put in same directory as "main.py")
 download: https://ffmpeg.org/download.html
 
 Stuff:
